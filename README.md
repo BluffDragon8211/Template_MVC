@@ -62,7 +62,12 @@ $ composer install # install l'autoloader
 $ composer dump-autoload
 ```
 
-//lancer php -S localhost:8000 dans le dossier public
+- lancer php -S localhost:8000 dans le dossier public
+
+```shell
+$ cd public
+$ php -S localhost:8000
+```
 
 ## Etape 3 - Le router
 
