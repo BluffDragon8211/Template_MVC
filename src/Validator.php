@@ -1,6 +1,6 @@
 <?php
 
-namespace Todo;
+namespace Project;
 
 /** Class Validator **/
 class Validator {
